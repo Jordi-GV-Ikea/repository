@@ -1,2 +1,4 @@
 # repository
-Test for git 
+Test for git.
+
+Deal with corruptions in repositories Git and Github
